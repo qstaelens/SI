@@ -1,0 +1,9 @@
+SYSTEM = Sr16Cu8O24                    # system name
+ISMEAR = 0                             # Gaussian smearing
+KPAR = 2                               # parallelization of k-points in two groups
+ALGO = Exact                           # exact diagonalization
+NELM = 1                               # one electronic step suffices, since WAVECAR from previous step is present
+NBANDS = 400                           # need for a lot of bands in GW
+ENCUT = 600.0                          # please        
+LOPTICS = .TRUE.                       # we need d phi/ d k  for GW calculations for long-wave limit
+KPAR = 2

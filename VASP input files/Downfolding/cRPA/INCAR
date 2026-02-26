@@ -1,0 +1,7 @@
+System = Sr16Cu8O24                      # system name
+ISMEAR = 0                             # Gaussian smearing
+NCSHMEM = 1                            # switch off shared memory for chi
+ALGO = CRPA                            # Switch on CRPA
+NBANDS = 400                          # CRPA needs many empty states
+PRECFOCK = Fast                        # fast mode for FFTs
+NTARGET_STATES = 1 2 3 4 5 6 7 8             # exclude wannier states 1 in screening
