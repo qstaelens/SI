@@ -28,7 +28,7 @@ The resulting Hubbard parameters are used in tensor-network simulations
 
 Structural Relaxation
 
-Downfolding 
+Downfolding\
 ├── SCF\
 ├── LWL\
 ├── BANDS\
