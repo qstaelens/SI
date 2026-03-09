@@ -153,7 +153,7 @@ Input files:
 
 ------------------------------------------------------------------------
 
-### 7. Hopping (formerly cRPA2)
+### 7. Hopping
 
 Folder: Downfolding/Hopping/
 
