@@ -42,15 +42,10 @@ Downfolding\
 
 All calculations were performed using:
 
--   VASP v6.4.2
+-   VASP
 -   PBE exchange-correlation functional
 -   PAW pseudopotentials
--   Wannier90 v3.1 via VASP2Wannier90 interface
-
-Example module load command:
-
-module load
-VASP/6.4.2-gomkl-2023a-VASPsol-20210413-vtst-197-Wannier90-3.1.0
+-   Wannier90 via VASP2Wannier90 interface
 
 ------------------------------------------------------------------------
 
