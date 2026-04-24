@@ -145,6 +145,7 @@ Input files:
 - POTCAR
 - WAVECAR (from LWL)
 - WAVEDER (from LWL)
+- WANPROJ (from MLWFS)
 
 ------------------------------------------------------------------------
 
