@@ -53,8 +53,6 @@ All calculations were performed using:
 
 ### 1. Structural Relaxation
 
-Location: Structural Relaxation
-
 Purpose: Full relaxation of lattice parameters and internal atomic
 coordinates.
 
