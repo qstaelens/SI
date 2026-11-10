@@ -22,6 +22,8 @@ The workflow consists of:
 The resulting Hubbard parameters are used in tensor-network simulations
 (performed separately using HubbardTN.jl, https://github.com/qstaelens/HubbardTN.jl).
 
+The figures, extrapolations, and data analysis presented in the paper can be reproduced using the Post-Processing.ipynb notebook.
+
 ------------------------------------------------------------------------
 
 ## Repository Structure
